@@ -14,12 +14,12 @@
 | Spencer Mitchell | <font color="blue">Joshua Phipps</font> |
 |---|---|
 | **My name is Spencer Mitchell and I am a USMC Veteran. I am currently transitioning into the cyber security field.** | **I am currently a Georgia National Guard soldier transitioning into Cybersecurity. xD** |
-| [![Image of Spencer](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/spencymitch) [![Image of Spencer](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/ademola-olatunbosun/) | [![Image of Joshua](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) |
+| [![Image of Spencer](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/spencymitch) [![Image of Spencer](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/spencymitch/) | [![Image of Joshua](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) |
 
 | Nickolaus Loiacono | Dericus Hornor |
 |---|---|
 | **Navy Veteran, Cybersecurity Professional, CompTIA ITF+ Certified** | **I am currently an IT Property Specialist expanding into Cybersecurity.** |
-| [![Image of Nick A](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/nickolaus-alderete/) | [![Image of Dericus](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Perryandr?tab=repositories) [![Image of Dericus](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/dericus-horner/) |
+| [![Image of Nick A](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/nickolaus-alderete/) | [![Image of Dericus](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Dhorner4) [![Image of Dericus](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/dericus-horner/) |
 
 | Lamin "Mola" Touray |
 |---|
