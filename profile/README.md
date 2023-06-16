@@ -2,7 +2,7 @@
 
 *Below are the links and details for our 401 End of course project.*
 - [Team Agreement]
-- [Trello board]
+- [Trello board](https://trello.com/b/WT0fgHfZ/hermes)
 - [Topologies/Visuals]
 - [Scripting]
 - [Slideshow](https://docs.google.com/presentation/d/1B2ACnLkxho7j7H2gcR1V436Kd9dfBtxia8kdlmmBPoA/edit#slide=id.g2accd1c413_3_31)
