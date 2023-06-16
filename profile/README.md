@@ -1,7 +1,7 @@
  # Links 🔗
 
 *Below are the links and details for our 401 End of course project.*
-- [Team Agreement]
+- [Team Agreement](https://github.com/Hermes-Messengers/.github/blob/main/Hermes%20Agreement.pdf)
 - [Trello board](https://trello.com/b/WT0fgHfZ/hermes)
 - [Topologies/Visuals]
 - [Scripting]
