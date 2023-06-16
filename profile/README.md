@@ -8,3 +8,23 @@
 - [Slideshow]
 - [Video Presentation]
 - [Report]
+
+# Meet the team 🤘
+
+| Spencer Mitchell | <font color="blue">Joshua Phipps</font> |
+|---|---|
+| **My name is Spencer Mitchell and I am a USMC Veteran. I am currently transitioning into the cyber security field.** | **I am currently a Georgia National Guard soldier transitioning into Cybersecurity. xD** |
+| [![Image of Spencer](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/spencymitch) [![Image of Spencer](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/ademola-olatunbosun/) | [![Image of Joshua](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) |
+
+| Nickolaus Loiacono | Dericus Hornor |
+|---|---|
+| **Navy Veteran, Cybersecurity Professional, CompTIA ITF+ Certified** | **I am currently an IT Property Specialist expanding into Cybersecurity.** |
+| [![Image of Nick A](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/nickolaus-alderete/) | [![Image of Dericus](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Perryandr?tab=repositories) [![Image of Dericus](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/dericus-horner/) |
+
+| Lamin "Mola" Touray |
+|---|
+| **Howzit My name is Justin 'Sage' Tabios.  What I enjoy most about tech is the gaming sector of it.** |
+| [![Image of Sage](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/AnnyeongAloha?tab=repositories) [![Image of Sage](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/justintabios/) |
+
+
+ <small> *Kaleidoscope is a group of cohorts currently enrolled at Code Fellows OPS Cybersecurity class. This is a collection of our 401 Cybersecurity Engineering Mid-Term project.* </small>
