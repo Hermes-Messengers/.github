@@ -5,7 +5,7 @@
 - [Trello board]
 - [Topologies/Visuals]
 - [Scripting]
-- [Slideshow]
+- [Slideshow](https://docs.google.com/presentation/d/1B2ACnLkxho7j7H2gcR1V436Kd9dfBtxia8kdlmmBPoA/edit#slide=id.g2accd1c413_3_31)
 - [Video Presentation]
 - [Report]
 
