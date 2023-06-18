@@ -30,8 +30,8 @@
 
 | Lamin "Mola" Touray |
 |---|
-| **Howzit My name is Justin 'Sage' Tabios.  What I enjoy most about tech is the gaming sector of it.** |
-| [![Image of Mola](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Mola2ray?tab=repositories) [![Image of Mola](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/justintabios/) |
+| **Navy Veteran, Cybersecurity Professional, CompTIA ITF+ Certified.** |
+| [![Image of Mola](https://github.com/Hermes-Messengers/.github/blob/main/gold_git.png)](https://github.com/Mola2ray?tab=repositories) [![Image of Mola](https://github.com/Hermes-Messengers/.github/blob/main/gold_in.png)](https://www.linkedin.com/in/lamin-touray-57b09a264/)
 
 
  <small> *Hermes is a group of cohorts currently enrolled at Code Fellows. This is a collection of our 401 Cybersecurity Engineering Final project.* </small>
