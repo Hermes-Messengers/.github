@@ -4,6 +4,17 @@
   
 </div>
  
+# <div align="center">  **Problem Domain** :confused: 
+</div>
+
+<div align="center">
+
+Hermes MSSP has been contracted to perform a one-time adversary emulation engagement for SimCorp, a financial asset management company. The CTO is concerned with the security posture of the company's cloud systems, after having already experienced sensitive data exposure as a result of misconfiguration of an employee's instance. 
+
+We were divided into two teams, red and blue, for the full duration of the project. The red team was tasked with discovering vulnerabilities on SimCorp systems and also exploiting them to gain access. The blue team (Hermes) was tasked with  overseeing the defensive systems and making meaningful improvements to threat detection capabilities.
+
+</div>
+
  
  # Links 🔗
 
