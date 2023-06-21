@@ -15,7 +15,26 @@ We were divided into two teams, red and blue, for the full duration of the proje
 
 </div>
 
- 
+ # <div align="center"> **Solution** :bulb:
+</div>
+
+<div align="center">
+
+In this engagement, the blue team took on a threat hunter role instead of incident response. The objective was to observe and document the progress of the adversary without interfering, treating the VPC like a honeypot. The team successfully evaluated SimCorp's blind spots and strengthened detection capabilities to ensure they didn't miss any important actions.
+
+During the blue team staging, IAM user accounts were provided to access the AWS account and manage systems. Useful tools like Splunk Enterprise (SIEM) and Zeek (NIDS) were already set up. By the start of the project, the adversary already had a presence in the network.
+
+▶️ Throughout the project, Hermes constructed an initial threat model DFD and performed a STRIDE analysis.
+▶️ Deployed additional threat detection tools and monitoring solutions to enhance visibility across the environment.
+▶️ Configured effective detection methods, such as IDS rules, to improve the defensive stance of the environment.
+▶️Implemented detective controls for the web server hosting SimCorp's web application.
+▶️Observed adversarial actions and collected evidence of scanning or TTPs used by the threat actors.
+▶️Built/customized and fully implemented scripted automation that alerted the team to any adversarial activity.
+
+
+**Overall, Kaleidoscope's comprehensive security implementation encompassed IAM best practices, server hardening, data protection, SIEM integration, and cloud monitoring. These efforts significantly enhanced the security infrastructure at Code Fellows, enabling efficient threat detection, response, and mitigation.**
+
+</div>
  # Links 🔗
 
 *Below are the links and details for our 401 End of course project.*
