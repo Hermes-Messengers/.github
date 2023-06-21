@@ -25,14 +25,17 @@ In this engagement, the blue team took on a threat hunter role instead of incide
 During the blue team staging, IAM user accounts were provided to access the AWS account and manage systems. Useful tools like Splunk Enterprise (SIEM) and Zeek (NIDS) were already set up. By the start of the project, the adversary already had a presence in the network.
 
 ▶️ Throughout the project, Hermes constructed an initial threat model DFD and performed a STRIDE analysis.
+
 ▶️ Deployed additional threat detection tools and monitoring solutions to enhance visibility across the environment.
+
 ▶️ Configured effective detection methods, such as IDS rules, to improve the defensive stance of the environment.
+
 ▶️Implemented detective controls for the web server hosting SimCorp's web application.
+
 ▶️Observed adversarial actions and collected evidence of scanning or TTPs used by the threat actors.
+
 ▶️Built/customized and fully implemented scripted automation that alerted the team to any adversarial activity.
 
-
-**Overall, Kaleidoscope's comprehensive security implementation encompassed IAM best practices, server hardening, data protection, SIEM integration, and cloud monitoring. These efforts significantly enhanced the security infrastructure at Code Fellows, enabling efficient threat detection, response, and mitigation.**
 
 </div>
  # Links 🔗
