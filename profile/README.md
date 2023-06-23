@@ -44,7 +44,7 @@ During the blue team staging, IAM user accounts were provided to access the AWS 
 *Below are the links and details for our 401 End of course project.*
 - [Team Agreement](https://github.com/Hermes-Messengers/.github/blob/main/Hermes%20Agreement.pdf)
 - [Trello board](https://trello.com/b/WT0fgHfZ/hermes)
-- [Topologies/Visuals]
+- [Topologies/Visuals](https://github.com/Hermes-Messengers/.github/blob/main/top.png)
 - [Data Flow Diagram](https://docs.google.com/document/d/1eS02mlTofG9TlfQFEYTNVfHgJ_89ytJ0rD9ravkiQL4/edit?usp=sharing)
 - [Scripting](https://github.com/Hermes-Messengers/.github/blob/main/SNS%20script.md)
 - [Slideshow](https://docs.google.com/presentation/d/1B2ACnLkxho7j7H2gcR1V436Kd9dfBtxia8kdlmmBPoA/edit#slide=id.g2accd1c413_3_31)
