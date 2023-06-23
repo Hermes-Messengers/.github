@@ -45,6 +45,7 @@ During the blue team staging, IAM user accounts were provided to access the AWS 
 - [Team Agreement](https://github.com/Hermes-Messengers/.github/blob/main/Hermes%20Agreement.pdf)
 - [Trello board](https://trello.com/b/WT0fgHfZ/hermes)
 - [Topologies/Visuals]
+- [Threat Intellegence & IRR](https://docs.google.com/document/d/135aGPmEJj0422HM0aZeJZPNkKepzf7BRQzgSrf1hsJc/edit?usp=sharing)
 - [Scripting]
 - [Slideshow](https://docs.google.com/presentation/d/1B2ACnLkxho7j7H2gcR1V436Kd9dfBtxia8kdlmmBPoA/edit#slide=id.g2accd1c413_3_31)
 - [Video Presentation]
