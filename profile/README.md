@@ -48,7 +48,7 @@ During the blue team staging, IAM user accounts were provided to access the AWS 
 - [Data Flow Diagram](https://docs.google.com/document/d/1eS02mlTofG9TlfQFEYTNVfHgJ_89ytJ0rD9ravkiQL4/edit?usp=sharing)
 - [Scripting](https://github.com/Hermes-Messengers/.github/blob/main/SNS%20script.md)
 - [Slideshow](https://github.com/Hermes-Messengers/.github/blob/main/Slidedeck.pdf)
-- [Video Presentation]
+- [Video Presentation](https://fb.watch/lqFuOrCwa8/)
 - [Report](https://docs.google.com/document/d/135aGPmEJj0422HM0aZeJZPNkKepzf7BRQzgSrf1hsJc/edit?usp=sharing)
 # Meet the team 🤘
 
